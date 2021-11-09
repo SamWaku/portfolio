@@ -3,7 +3,7 @@ const Header = () => {
     return(
         <div className="header-wrapper">
             <div className="main-info">
-                <h1> welcome to my portfolio</h1>
+                <h1> Nathan chikala!! </h1>
                 <Typed
                     className="typed-text"
                     strings={[" Web development","Machine learning", "mobile app"]}
