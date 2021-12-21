@@ -63,7 +63,8 @@ nav {
 
   /********************logo*****************/
   .logo {
-    width: 4.25rem;
+    width: 70px;
+    border-radius: 3px;
   }
 
   /*******************menu links************/
@@ -147,7 +148,7 @@ nav {
   }
 
   /****************** HEADER MAIN OFFER ****************/
-  .btn-main-offer {
+  .btn-main-offer{
     border: 1px solid var(--primary-hover-red);
     text-transform: uppercase;
     border-radius: 0;
